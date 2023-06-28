@@ -1,0 +1,16 @@
+#JavaScript
+- ภาษาคอมพิวเตอร์ที่ใช้ในการพัฒนาเว็บร่วมกับ HTML เพื่อให้เว็บมีลักษณะ dynamic
+หมายถึง เว็บสามารถตอบสนองกับผู้ใช้งานหรือแสดงเนื้อหาที่แตกต่างกันไปโดยอ้างอิง web browser ที่ผู้เข้าชมเว็บใช้งานอยู่
+
+- เป็นภาษาที่ฝั่งผู้ใช้งาน (Client Side Script) โดย web browser จะทำหน้าที่ประมวลคำสั่งที่ถูกเขียนขึ้นมาและตอบสนองต่อผู้ใช้งานทันที
+เช่น การแสดงข้อความแจ้งเตือน alert การตรวจสอบข้อมูล validation
+
+#Node.Js
+ในปัจจุบันมีการพัฒนาชุดแปลคำสั่ง JavaScript ขึ้นมาโดยที่ไม่ต้องขึ้นอยู่กับ web browser นั่นคือ node.Js
+
+- Node.js เป็นชุดเครื่องมือในการแปลคำสั่งของ JavaScript ละเป็น JavaScript Runtime Environment
+กล่าวคือ สามารถนำ JavaScript ไปรันใน windows,mac,linux โดยไม่ต้องขึ้นกับ web browser
+ส่งผลให้สามารถรัน JavaScript ด้วย Node.Js ได้เลย โดยไม่จำเป็นต้องสร้างเป็น web page แล้วนำไปรันบน web browser
+
+ - Node.Js ถูกสร้างขึ้นมาเพื่อทำงานฝั่ง server เป็นหลักคล้ายกับ PHP , Django Framework (Python), Lalavel Framework(PHP)
+ แต่การใช้งาน node.js จะมีข้อดีคือ ผู้พัฒนาเว็บสามารถควบคุมการทำงานของเว็บทั้งฝั่ง Frontend และ Backend ได้โดยใช้ JavaScript ภาษาเดียว

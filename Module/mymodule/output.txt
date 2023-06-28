@@ -1,0 +1,2 @@
+Hello Node.JS this is read file with module
+This file create with Tue Jun 27 2023 05:23:31 GMT+0700 (Indochina Time)
